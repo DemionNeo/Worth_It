@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "301241984927",
+    "project_id": "worth-it-af3f1",
+    "storage_bucket": "worth-it-af3f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301241984927:android:5b846114b3cbd9a2417faa",
+        "android_client_info": {
+          "package_name": "com.example.worthit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301241984927-h5hldobca2t6hbe6c6hkrmlrdd2etqcf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.worthit",
+            "certificate_hash": "208a6aede06e14ead3f7bf4dd50ea3e0abea572e"
+          }
+        },
+        {
+          "client_id": "301241984927-46s5vgag756octcoeuorcthur4kpavlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABX4b45MjGKG7skVnyyUiyH42HwjDUl4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301241984927-46s5vgag756octcoeuorcthur4kpavlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

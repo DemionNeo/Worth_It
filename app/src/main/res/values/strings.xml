@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Worth It</string>
+    <string name="trainer">Trainer</string>
+    <string name="worth_it">Who do you want to be?</string>
+    <string name="trainee">Trainee</string>
+    <string name="trainee_registration">Trainee Registration</string>
+</resources>
